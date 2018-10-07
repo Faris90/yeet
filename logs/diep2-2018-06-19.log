@@ -1,0 +1,200 @@
+00:54:20.582 WARN  Malformed command packet! Player has been disconnected. 
+00:54:20.676 WARN  Malformed command packet! Player has been disconnected. 
+01:56:04.650 WARN  Malformed command packet! Player has been disconnected. 
+01:59:24.840 WARN  ~~ LOOPS: 15. ENTITY #: 1009//550. VIEW #: 3. BACKLOGGED :: 100.200%! ~~ 
+01:59:38.065 WARN  ~~ LOOPS: 12. ENTITY #: 882//451. VIEW #: 3. BACKLOGGED :: 156.250%! ~~ 
+01:59:39.097 WARN  ~~ LOOPS: 12. ENTITY #: 884//509. VIEW #: 3. BACKLOGGED :: 152.250%! ~~ 
+01:59:40.132 WARN  ~~ LOOPS: 13. ENTITY #: 884//511. VIEW #: 3. BACKLOGGED :: 134.308%! ~~ 
+01:59:41.217 WARN  ~~ LOOPS: 14. ENTITY #: 884//509. VIEW #: 3. BACKLOGGED :: 123.429%! ~~ 
+01:59:42.290 WARN  ~~ LOOPS: 14. ENTITY #: 884//510. VIEW #: 3. BACKLOGGED :: 124.286%! ~~ 
+01:59:43.328 WARN  ~~ LOOPS: 14. ENTITY #: 884//506. VIEW #: 3. BACKLOGGED :: 113.143%! ~~ 
+01:59:44.364 WARN  ~~ LOOPS: 14. ENTITY #: 884//508. VIEW #: 3. BACKLOGGED :: 117.214%! ~~ 
+01:59:45.412 WARN  ~~ LOOPS: 14. ENTITY #: 886//508. VIEW #: 3. BACKLOGGED :: 115.929%! ~~ 
+01:59:46.480 WARN  ~~ LOOPS: 14. ENTITY #: 886//512. VIEW #: 3. BACKLOGGED :: 124.286%! ~~ 
+01:59:47.560 WARN  ~~ LOOPS: 14. ENTITY #: 884//509. VIEW #: 3. BACKLOGGED :: 114.643%! ~~ 
+02:15:00.345 WARN  ~~ LOOPS: 15. ENTITY #: 1044//655. VIEW #: 2. BACKLOGGED :: 101.400%! ~~ 
+02:15:04.590 WARN  ~~ LOOPS: 13. ENTITY #: 930//568. VIEW #: 2. BACKLOGGED :: 125.077%! ~~ 
+02:26:33.809 WARN  ~~ LOOPS: 12. ENTITY #: 1671//1261. VIEW #: 2. BACKLOGGED :: 130.750%! ~~ 
+02:26:34.938 WARN  ~~ LOOPS: 14. ENTITY #: 1671//1288. VIEW #: 2. BACKLOGGED :: 119.571%! ~~ 
+02:26:36.014 WARN  ~~ LOOPS: 13. ENTITY #: 1671//1288. VIEW #: 2. BACKLOGGED :: 121.385%! ~~ 
+02:26:37.100 WARN  ~~ LOOPS: 13. ENTITY #: 1671//1286. VIEW #: 2. BACKLOGGED :: 119.538%! ~~ 
+02:26:38.174 WARN  ~~ LOOPS: 12. ENTITY #: 1158//1055. VIEW #: 2. BACKLOGGED :: 155.000%! ~~ 
+02:27:15.238 WARN  ~~ LOOPS: 15. ENTITY #: 956//581. VIEW #: 2. BACKLOGGED :: 101.800%! ~~ 
+02:28:25.959 WARN  ~~ LOOPS: 14. ENTITY #: 653//301. VIEW #: 2. BACKLOGGED :: 125.357%! ~~ 
+02:28:33.216 WARN  ~~ LOOPS: 15. ENTITY #: 689//299. VIEW #: 2. BACKLOGGED :: 112.000%! ~~ 
+02:28:34.241 WARN  ~~ LOOPS: 14. ENTITY #: 689//299. VIEW #: 2. BACKLOGGED :: 112.286%! ~~ 
+02:28:35.313 WARN  ~~ LOOPS: 15. ENTITY #: 689//298. VIEW #: 2. BACKLOGGED :: 112.400%! ~~ 
+02:28:58.976 WARN  ~~ LOOPS: 15. ENTITY #: 1281//856. VIEW #: 2. BACKLOGGED :: 101.400%! ~~ 
+02:29:03.159 WARN  ~~ LOOPS: 14. ENTITY #: 1011//608. VIEW #: 2. BACKLOGGED :: 112.714%! ~~ 
+02:29:04.206 WARN  ~~ LOOPS: 13. ENTITY #: 1647//890. VIEW #: 2. BACKLOGGED :: 126.231%! ~~ 
+02:29:05.288 WARN  ~~ LOOPS: 10. ENTITY #: 2175//1498. VIEW #: 2. BACKLOGGED :: 171.300%! ~~ 
+02:29:06.469 WARN  ~~ LOOPS: 8. ENTITY #: 2550//1975. VIEW #: 2. BACKLOGGED :: 211.500%! ~~ 
+02:29:07.606 WARN  ~~ LOOPS: 8. ENTITY #: 2550//2164. VIEW #: 2. BACKLOGGED :: 223.125%! ~~ 
+02:29:08.844 WARN  ~~ LOOPS: 8. ENTITY #: 2870//2260. VIEW #: 2. BACKLOGGED :: 228.750%! ~~ 
+02:29:10.124 WARN  ~~ LOOPS: 7. ENTITY #: 3249//2646. VIEW #: 2. BACKLOGGED :: 273.000%! ~~ 
+02:29:11.430 WARN  ~~ LOOPS: 6. ENTITY #: 3574//2996. VIEW #: 2. BACKLOGGED :: 324.000%! ~~ 
+02:30:48.994 WARN  ~~ LOOPS: 11. ENTITY #: 741//337. VIEW #: 2. BACKLOGGED :: 177.545%! ~~ 
+02:31:36.455 WARN  ~~ LOOPS: 11. ENTITY #: 1230//558. VIEW #: 2. BACKLOGGED :: 172.364%! ~~ 
+02:31:37.504 WARN  ~~ LOOPS: 8. ENTITY #: 1454//792. VIEW #: 2. BACKLOGGED :: 280.500%! ~~ 
+02:31:38.548 WARN  ~~ LOOPS: 8. ENTITY #: 676//549. VIEW #: 2. BACKLOGGED :: 286.875%! ~~ 
+02:31:57.721 WARN  ~~ LOOPS: 15. ENTITY #: 797//222. VIEW #: 2. BACKLOGGED :: 112.000%! ~~ 
+02:31:58.792 WARN  ~~ LOOPS: 10. ENTITY #: 909//465. VIEW #: 2. BACKLOGGED :: 219.300%! ~~ 
+02:31:59.828 WARN  ~~ LOOPS: 11. ENTITY #: 1020//379. VIEW #: 2. BACKLOGGED :: 180.818%! ~~ 
+02:32:00.845 WARN  ~~ LOOPS: 11. ENTITY #: 1131//362. VIEW #: 2. BACKLOGGED :: 169.091%! ~~ 
+02:32:01.857 WARN  ~~ LOOPS: 10. ENTITY #: 1020//321. VIEW #: 2. BACKLOGGED :: 202.800%! ~~ 
+02:32:02.919 WARN  ~~ LOOPS: 10. ENTITY #: 797//319. VIEW #: 2. BACKLOGGED :: 221.400%! ~~ 
+02:32:03.973 WARN  ~~ LOOPS: 14. ENTITY #: 353//207. VIEW #: 2. BACKLOGGED :: 109.286%! ~~ 
+02:32:22.181 WARN  ~~ LOOPS: 14. ENTITY #: 1007//619. VIEW #: 2. BACKLOGGED :: 112.714%! ~~ 
+02:32:23.213 WARN  ~~ LOOPS: 13. ENTITY #: 1108//724. VIEW #: 2. BACKLOGGED :: 133.385%! ~~ 
+02:32:24.309 WARN  ~~ LOOPS: 13. ENTITY #: 1195//818. VIEW #: 2. BACKLOGGED :: 148.846%! ~~ 
+02:32:25.371 WARN  ~~ LOOPS: 11. ENTITY #: 1254//893. VIEW #: 2. BACKLOGGED :: 181.091%! ~~ 
+02:32:26.510 WARN  ~~ LOOPS: 11. ENTITY #: 1263//924. VIEW #: 2. BACKLOGGED :: 187.909%! ~~ 
+02:32:27.559 WARN  ~~ LOOPS: 11. ENTITY #: 1232//909. VIEW #: 2. BACKLOGGED :: 178.091%! ~~ 
+02:32:28.663 WARN  ~~ LOOPS: 12. ENTITY #: 1157//859. VIEW #: 2. BACKLOGGED :: 166.250%! ~~ 
+02:32:29.709 WARN  ~~ LOOPS: 12. ENTITY #: 1107//796. VIEW #: 2. BACKLOGGED :: 152.250%! ~~ 
+02:32:30.774 WARN  ~~ LOOPS: 13. ENTITY #: 1027//736. VIEW #: 2. BACKLOGGED :: 141.000%! ~~ 
+02:32:31.910 WARN  ~~ LOOPS: 11. ENTITY #: 1715//830. VIEW #: 2. BACKLOGGED :: 184.909%! ~~ 
+02:32:32.995 WARN  ~~ LOOPS: 4. ENTITY #: 1457//910. VIEW #: 2. BACKLOGGED :: 609.000%! ~~ 
+02:32:34.193 WARN  ~~ LOOPS: 7. ENTITY #: 1613//1033. VIEW #: 2. BACKLOGGED :: 401.143%! ~~ 
+02:32:35.233 WARN  ~~ LOOPS: 5. ENTITY #: 1237//703. VIEW #: 2. BACKLOGGED :: 502.200%! ~~ 
+02:32:36.360 WARN  ~~ LOOPS: 7. ENTITY #: 1616//957. VIEW #: 2. BACKLOGGED :: 358.714%! ~~ 
+02:32:37.457 WARN  ~~ LOOPS: 6. ENTITY #: 1239//654. VIEW #: 2. BACKLOGGED :: 433.500%! ~~ 
+02:32:38.559 WARN  ~~ LOOPS: 7. ENTITY #: 1194//741. VIEW #: 2. BACKLOGGED :: 348.429%! ~~ 
+02:32:39.638 WARN  ~~ LOOPS: 9. ENTITY #: 1342//615. VIEW #: 2. BACKLOGGED :: 253.000%! ~~ 
+02:32:40.676 WARN  ~~ LOOPS: 7. ENTITY #: 959//465. VIEW #: 2. BACKLOGGED :: 343.714%! ~~ 
+02:32:41.733 WARN  ~~ LOOPS: 9. ENTITY #: 903//504. VIEW #: 2. BACKLOGGED :: 251.333%! ~~ 
+02:32:42.803 WARN  ~~ LOOPS: 10. ENTITY #: 964//402. VIEW #: 2. BACKLOGGED :: 214.800%! ~~ 
+02:32:43.874 WARN  ~~ LOOPS: 10. ENTITY #: 813//312. VIEW #: 2. BACKLOGGED :: 220.800%! ~~ 
+02:32:44.938 WARN  ~~ LOOPS: 9. ENTITY #: 803//426. VIEW #: 2. BACKLOGGED :: 228.667%! ~~ 
+02:32:45.972 WARN  ~~ LOOPS: 10. ENTITY #: 800//426. VIEW #: 2. BACKLOGGED :: 204.300%! ~~ 
+02:32:47.063 WARN  ~~ LOOPS: 12. ENTITY #: 913//373. VIEW #: 2. BACKLOGGED :: 175.250%! ~~ 
+02:32:48.104 WARN  ~~ LOOPS: 10. ENTITY #: 1135//476. VIEW #: 2. BACKLOGGED :: 209.700%! ~~ 
+02:32:49.259 WARN  ~~ LOOPS: 8. ENTITY #: 1567//935. VIEW #: 2. BACKLOGGED :: 291.000%! ~~ 
+02:32:50.514 WARN  ~~ LOOPS: 6. ENTITY #: 1357//1167. VIEW #: 2. BACKLOGGED :: 514.500%! ~~ 
+02:32:51.532 WARN  ~~ LOOPS: 14. ENTITY #: 914//519. VIEW #: 2. BACKLOGGED :: 113.571%! ~~ 
+02:35:15.248 WARN  ~~ LOOPS: 14. ENTITY #: 1348//912. VIEW #: 2. BACKLOGGED :: 115.500%! ~~ 
+02:35:16.355 WARN  ~~ LOOPS: 12. ENTITY #: 1424//1029. VIEW #: 2. BACKLOGGED :: 162.250%! ~~ 
+02:35:17.434 WARN  ~~ LOOPS: 10. ENTITY #: 1481//1100. VIEW #: 2. BACKLOGGED :: 200.400%! ~~ 
+02:35:18.499 WARN  ~~ LOOPS: 11. ENTITY #: 1473//1124. VIEW #: 2. BACKLOGGED :: 171.000%! ~~ 
+02:35:19.557 WARN  ~~ LOOPS: 11. ENTITY #: 1386//1086. VIEW #: 2. BACKLOGGED :: 172.091%! ~~ 
+02:35:20.622 WARN  ~~ LOOPS: 12. ENTITY #: 1201//939. VIEW #: 2. BACKLOGGED :: 138.750%! ~~ 
+02:35:31.002 WARN  ~~ LOOPS: 15. ENTITY #: 1035//775. VIEW #: 2. BACKLOGGED :: 103.200%! ~~ 
+02:35:41.266 WARN  ~~ LOOPS: 13. ENTITY #: 1327//957. VIEW #: 2. BACKLOGGED :: 130.385%! ~~ 
+02:35:42.328 WARN  ~~ LOOPS: 13. ENTITY #: 1222//940. VIEW #: 2. BACKLOGGED :: 136.846%! ~~ 
+02:35:43.365 WARN  ~~ LOOPS: 14. ENTITY #: 1014//773. VIEW #: 2. BACKLOGGED :: 107.571%! ~~ 
+02:39:15.262 WARN  ~~ LOOPS: 15. ENTITY #: 1340//940. VIEW #: 2. BACKLOGGED :: 102.800%! ~~ 
+02:39:16.318 WARN  ~~ LOOPS: 12. ENTITY #: 1377//1029. VIEW #: 2. BACKLOGGED :: 134.500%! ~~ 
+02:39:17.373 WARN  ~~ LOOPS: 14. ENTITY #: 1246//995. VIEW #: 2. BACKLOGGED :: 115.071%! ~~ 
+02:39:18.439 WARN  ~~ LOOPS: 13. ENTITY #: 1116//864. VIEW #: 2. BACKLOGGED :: 133.615%! ~~ 
+02:39:32.054 WARN  ~~ LOOPS: 14. ENTITY #: 945//738. VIEW #: 2. BACKLOGGED :: 112.071%! ~~ 
+02:40:01.616 WARN  ~~ LOOPS: 14. ENTITY #: 1166//857. VIEW #: 2. BACKLOGGED :: 118.714%! ~~ 
+02:40:02.701 WARN  ~~ LOOPS: 13. ENTITY #: 1072//830. VIEW #: 2. BACKLOGGED :: 142.615%! ~~ 
+02:40:03.795 WARN  ~~ LOOPS: 15. ENTITY #: 945//704. VIEW #: 2. BACKLOGGED :: 115.600%! ~~ 
+02:40:04.795 WARN  ~~ LOOPS: 14. ENTITY #: 898//573. VIEW #: 2. BACKLOGGED :: 106.500%! ~~ 
+02:41:26.472 WARN  ~~ LOOPS: 14. ENTITY #: 1156//1054. VIEW #: 2. BACKLOGGED :: 112.071%! ~~ 
+02:41:27.545 WARN  ~~ LOOPS: 12. ENTITY #: 1311//1225. VIEW #: 2. BACKLOGGED :: 140.750%! ~~ 
+02:41:28.669 WARN  ~~ LOOPS: 12. ENTITY #: 1379//1346. VIEW #: 2. BACKLOGGED :: 157.000%! ~~ 
+02:41:29.762 WARN  ~~ LOOPS: 11. ENTITY #: 1411//1383. VIEW #: 2. BACKLOGGED :: 180.545%! ~~ 
+02:41:30.904 WARN  ~~ LOOPS: 10. ENTITY #: 1439//1413. VIEW #: 2. BACKLOGGED :: 207.600%! ~~ 
+02:41:31.994 WARN  ~~ LOOPS: 10. ENTITY #: 1468//1442. VIEW #: 2. BACKLOGGED :: 204.600%! ~~ 
+02:41:33.082 WARN  ~~ LOOPS: 10. ENTITY #: 1497//1471. VIEW #: 2. BACKLOGGED :: 210.900%! ~~ 
+02:41:34.223 WARN  ~~ LOOPS: 9. ENTITY #: 1606//1511. VIEW #: 2. BACKLOGGED :: 231.667%! ~~ 
+02:41:35.307 WARN  ~~ LOOPS: 9. ENTITY #: 1529//1552. VIEW #: 2. BACKLOGGED :: 243.333%! ~~ 
+02:41:36.365 WARN  ~~ LOOPS: 9. ENTITY #: 1306//1329. VIEW #: 2. BACKLOGGED :: 236.667%! ~~ 
+02:41:37.428 WARN  ~~ LOOPS: 11. ENTITY #: 1227//1203. VIEW #: 2. BACKLOGGED :: 179.455%! ~~ 
+02:41:38.527 WARN  ~~ LOOPS: 11. ENTITY #: 1133//1141. VIEW #: 2. BACKLOGGED :: 175.636%! ~~ 
+02:41:39.616 WARN  ~~ LOOPS: 12. ENTITY #: 1019//1002. VIEW #: 2. BACKLOGGED :: 151.750%! ~~ 
+02:41:40.651 WARN  ~~ LOOPS: 13. ENTITY #: 1015//962. VIEW #: 2. BACKLOGGED :: 129.462%! ~~ 
+02:41:41.748 WARN  ~~ LOOPS: 13. ENTITY #: 1161//997. VIEW #: 2. BACKLOGGED :: 132.923%! ~~ 
+02:41:42.848 WARN  ~~ LOOPS: 12. ENTITY #: 1252//1061. VIEW #: 2. BACKLOGGED :: 166.500%! ~~ 
+02:41:43.894 WARN  ~~ LOOPS: 10. ENTITY #: 1424//1148. VIEW #: 2. BACKLOGGED :: 191.700%! ~~ 
+02:41:45.003 WARN  ~~ LOOPS: 11. ENTITY #: 1422//1162. VIEW #: 2. BACKLOGGED :: 192.545%! ~~ 
+02:41:46.085 WARN  ~~ LOOPS: 11. ENTITY #: 1426//1107. VIEW #: 2. BACKLOGGED :: 184.909%! ~~ 
+02:41:47.139 WARN  ~~ LOOPS: 11. ENTITY #: 1603//1213. VIEW #: 2. BACKLOGGED :: 175.091%! ~~ 
+02:41:48.268 WARN  ~~ LOOPS: 10. ENTITY #: 1575//1426. VIEW #: 2. BACKLOGGED :: 223.800%! ~~ 
+02:41:49.322 WARN  ~~ LOOPS: 9. ENTITY #: 1476//1426. VIEW #: 2. BACKLOGGED :: 234.000%! ~~ 
+02:41:50.390 WARN  ~~ LOOPS: 10. ENTITY #: 1439//1383. VIEW #: 2. BACKLOGGED :: 202.800%! ~~ 
+02:41:51.510 WARN  ~~ LOOPS: 11. ENTITY #: 1353//1352. VIEW #: 2. BACKLOGGED :: 190.091%! ~~ 
+02:41:52.630 WARN  ~~ LOOPS: 11. ENTITY #: 1349//1311. VIEW #: 2. BACKLOGGED :: 176.182%! ~~ 
+02:41:53.712 WARN  ~~ LOOPS: 11. ENTITY #: 1328//1315. VIEW #: 2. BACKLOGGED :: 179.182%! ~~ 
+02:41:54.833 WARN  ~~ LOOPS: 11. ENTITY #: 1264//1272. VIEW #: 2. BACKLOGGED :: 177.273%! ~~ 
+02:41:55.892 WARN  ~~ LOOPS: 12. ENTITY #: 1223//1206. VIEW #: 2. BACKLOGGED :: 154.500%! ~~ 
+02:41:56.980 WARN  ~~ LOOPS: 11. ENTITY #: 1203//1193. VIEW #: 2. BACKLOGGED :: 170.727%! ~~ 
+02:41:58.007 WARN  ~~ LOOPS: 12. ENTITY #: 813//724. VIEW #: 2. BACKLOGGED :: 157.500%! ~~ 
+02:43:47.744 WARN  ~~ LOOPS: 7. ENTITY #: 1157//915. VIEW #: 2. BACKLOGGED :: 287.571%! ~~ 
+02:43:48.788 WARN  ~~ LOOPS: 13. ENTITY #: 1045//701. VIEW #: 2. BACKLOGGED :: 135.692%! ~~ 
+02:43:49.823 WARN  ~~ LOOPS: 14. ENTITY #: 1045//699. VIEW #: 2. BACKLOGGED :: 117.214%! ~~ 
+02:43:50.903 WARN  ~~ LOOPS: 15. ENTITY #: 1045//696. VIEW #: 2. BACKLOGGED :: 111.200%! ~~ 
+02:43:51.970 WARN  ~~ LOOPS: 15. ENTITY #: 1045//698. VIEW #: 2. BACKLOGGED :: 105.600%! ~~ 
+02:43:53.008 WARN  ~~ LOOPS: 14. ENTITY #: 1045//699. VIEW #: 2. BACKLOGGED :: 111.429%! ~~ 
+02:44:03.027 WARN  ~~ LOOPS: 2. ENTITY #: 2601//1560. VIEW #: 2. BACKLOGGED :: 2536.500%! ~~ 
+19:10:16.277 WARN  Malformed command packet! Player has been disconnected. 
+19:10:16.426 WARN  Malformed command packet! Player has been disconnected. 
+19:10:26.702 WARN  Malformed command packet! Player has been disconnected. 
+19:10:36.107 WARN  Malformed command packet! Player has been disconnected. 
+19:10:36.263 WARN  Malformed command packet! Player has been disconnected. 
+19:45:34.915 WARN  ~~ LOOPS: 11. ENTITY #: 1478//289. VIEW #: 7. BACKLOGGED :: 212.727%! ~~ 
+21:12:47.608 WARN  Malformed command packet! Player has been disconnected. 
+22:23:33.404 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1751:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2484:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2508:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+22:23:33.404 ERROR megaSmash 
+22:23:33.405 ERROR {"PARENT":[null],"LABEL":"Mega-Smasher","DANGER":7,"BODY":{"SPEED":4.9875,"FOV":1.1,"DENSITY":2,"HEALTH":18.5,"SHIELD":7.4},"TURRETS":[{"POSITION":[24,0,0,0,360,0],"TYPE":{"CONTROLLERS":["spin"],"COLOR":9,"SHAPE":-6,"INDEPENDENT":true,"index":67,"mockup":{"body":{"type":1,"id":67,"index":67,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}}],"index":87} 
+22:23:33.406 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1751:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2484:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2508:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+22:23:33.406 ERROR spike 
+22:23:33.406 ERROR {"PARENT":[null],"LABEL":"Spike","DANGER":7,"BODY":{"DAMAGE":3.4499999999999997,"FOV":1.05,"DENSITY":1,"HEALTH":18.5,"SHIELD":7.4},"TURRETS":[{"POSITION":[20.5,0,0,0,360,0],"TYPE":{"CONTROLLERS":["spin"],"COLOR":9,"SHAPE":-4,"INDEPENDENT":true,"index":66,"mockup":{"body":{"type":1,"id":66,"index":66,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}}},{"POSITION":[20.5,0,0,120,360,0],"TYPE":{"CONTROLLERS":["spin"],"COLOR":9,"SHAPE":-4,"INDEPENDENT":true,"index":66,"mockup":{"body":{"type":1,"id":66,"index":66,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}}},{"POSITION":[20.5,0,0,240,360,0],"TYPE":{"CONTROLLERS":["spin"],"COLOR":9,"SHAPE":-4,"INDEPENDENT":true,"index":66,"mockup":{"body":{"type":1,"id":66,"index":66,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}}}],"index":88} 
+22:23:33.578 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1751:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2484:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2508:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+22:23:33.578 ERROR landmine 
+22:23:33.578 ERROR {"PARENT":[null],"LABEL":"Landmine","INVISIBLE":[0.08,0.01,0.01],"DANGER":7,"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":64,"mockup":{"body":{"type":1,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0],"TYPE":{"CONTROLLERS":["slowSpin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":65,"mockup":{"body":{"type":1,"id":65,"index":65,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}}],"index":275} 
+22:30:07.685 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1751:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2484:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2508:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+22:30:07.685 ERROR blaster 
+22:30:07.688 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"ALPHA":1,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"COLOR_OVERRIDE":-1,"DONT_HIT_OBSTACLES":false,"IGNORE_SHAPES":false,"LAYER":-1,"TEAM":-1,"INVISIBLE":[0,0,1],"index":32,"mockup":{"body":{"type":7,"id":32,"index":32,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Blaster","GUNS":[{"POSITION":[9,10,1.6,8,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":9,"recoil":0.9519999999999998,"shudder":0.21250000000000002,"size":1.1,"health":0.875,"damage":0.5249999999999999,"pen":0.75,"speed":3.8249999999999997,"maxSpeed":0.27999999999999997,"range":0.75,"density":0.5,"spray":56.25,"resist":0.8},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":17,"mockup":{"body":{"type":1,"id":17,"index":17,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"UPGRADES_TIER_3":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"ALPHA":1,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"COLOR_OVERRIDE":-1,"DONT_HIT_OBSTACLES":false,"IGNORE_SHAPES":false,"LAYER":-1,"TEAM":-1,"INVISIBLE":[0,0,1],"index":32,"mockup":{"body":{"type":7,"id":32,"index":32,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Flamethrower","GUNS":[{"POSITION":[9,10,1.6,12,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":9,"recoil":0.9519999999999998,"shudder":0.21250000000000002,"size":1.1,"health":0.875,"damage":0.5249999999999999,"pen":0.75,"speed":3.8249999999999997,"maxSpeed":0.27999999999999997,"range":0.75,"density":0.5,"spray":56.25,"resist":0.8},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":17,"mockup":{"body":{"type":1,"id":17,"index":17,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[9,10,1.6,7,0,0,1],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":9,"recoil":0.9519999999999998,"shudder":0.21250000000000002,"size":1.1,"health":0.875,"damage":0.5249999999999999,"pen":0.75,"speed":3.8249999999999997,"maxSpeed":0.27999999999999997,"range":0.75,"density":0.5,"spray":56.25,"resist":0.8},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":17,"mockup":{"body":{"type":1,"id":17,"index":17,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":293,"mockup":{"body":{"type":7,"id":459,"index":293,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Flamethrower","score":0,"guns":[{"time":0,"power":0},{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.653226,"y":0},"axis":3.30645,"points":[{"x":2.1,"y":0.8},{"x":-1,"y":0},{"x":2.1,"y":-0.8}]}},"position":{"middle":{"x":0.653226,"y":0},"axis":3.30645,"points":[{"x":2.1,"y":0.8},{"x":-1,"y":0},{"x":2.1,"y":-0.8}]}}},null,{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"ALPHA":1,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"COLOR_OVERRIDE":-1,"DONT_HIT_OBSTACLES":false,"IGNORE_SHAPES":false,"LAYER":-1,"TEAM":-1,"INVISIBLE":[0,0,1],"index":32,"mockup":{"body":{"type":7,"id":32,"index":32,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Gatling Gun","DANGER":7,"BODY":{"FOV":1.1},"GUNS":[{"POSITION":[17,10,1.4,8,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":11.25,"recoil":1.4896,"shudder":0.136,"size":1,"health":0.5599999999999999,"damage":0.5249999999999999,"pen":1.1,"speed":5.625,"maxSpeed":1,"range":1.1,"density":1.25,"spray":18.75,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":17,"mockup":{"body":{"type":1,"id":17,"index":17,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":287,"mockup":{"body":{"type":7,"id":453,"index":287,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Gatling Gun","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.82,"y":0},"axis":3.64,"points":[{"x":2.5,"y":0.7},{"x":-1,"y":0},{"x":2.5,"y":-0.7}]}},"position":{"middle":{"x":0.82,"y":0},"axis":3.64,"points":[{"x":2.5,"y":0.7},{"x":-1,"y":0},{"x":2.5,"y":-0.7}]}}}],"index":285} 
+23:25:58.838 WARN  Malformed command packet! Player has been disconnected. 
+23:25:58.867 WARN  Malformed command packet! Player has been disconnected. 
+23:44:07.836 WARN  Malformed command packet! Player has been disconnected. 
+23:44:07.874 WARN  Malformed command packet! Player has been disconnected. 
+23:44:18.667 WARN  Malformed command packet! Player has been disconnected. 
+23:44:18.747 WARN  Malformed command packet! Player has been disconnected. 
+

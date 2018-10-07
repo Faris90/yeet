@@ -1,0 +1,60 @@
+00:29:54.786 WARN  Malformed command packet! Player has been disconnected. 
+00:29:54.889 WARN  Malformed command packet! Player has been disconnected. 
+19:49:25.661 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1745:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2472:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2496:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+19:49:25.661 ERROR propTurret 
+19:49:25.662 ERROR {"PARENT":[null],"COLOR":16,"index":27} 
+19:49:25.664 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1745:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2472:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2496:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+19:49:25.664 ERROR aiBullet 
+19:49:25.664 ERROR {"PARENT":[{"LABEL":"Drone","TYPE":"drone","ACCEPTS_SCORE":false,"DANGER":2,"CONTROL_RANGE":0,"SHAPE":3,"MOTION_TYPE":"chase","FACING_TYPE":"smoothToTarget","CONTROLLERS":["nearestDifferentMaster","canRepel","mapTargetToGoal","hangOutNearMaster"],"AI":{"BLIND":true},"BODY":{"PENETRATION":1.2,"PUSHABILITY":0.6,"ACCELERATION":0.05,"HEALTH":0.3,"DAMAGE":3.375,"SPEED":3.8,"RANGE":200,"DENSITY":0.03,"RESIST":1.5,"FOV":0.8},"HITS_OWN_TYPE":"hard","DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"BUFF_VS_FOOD":true,"CAN_BE_ON_LEADERBOARD":false,"index":26,"mockup":{"body":{"type":1,"id":26,"index":26,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Drone","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"LABEL":"Homing Bullet","SHAPE":0,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3,"ACCELERATION":0.05,"RESIST":1.5,"FOV":0.75},"TURRETS":[{"POSITION":[10,0,0,0,0,0],"TYPE":{"PARENT":[null],"COLOR":16,"index":27}}],"CONTROLLERS":["nearestDifferentMaster","mapTargetToGoal"],"INDEPENDENT":true,"DIE_AT_RANGE":true,"index":28} 
+19:49:48.743 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1745:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2472:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2496:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+19:49:48.743 ERROR propTurret 
+19:49:48.744 ERROR {"PARENT":[null],"COLOR":16,"index":27} 
+19:49:48.746 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1745:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2472:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2496:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+19:49:48.746 ERROR aiBullet 
+19:49:48.746 ERROR {"PARENT":[{"LABEL":"Drone","TYPE":"drone","ACCEPTS_SCORE":false,"DANGER":2,"CONTROL_RANGE":0,"SHAPE":3,"MOTION_TYPE":"chase","FACING_TYPE":"smoothToTarget","CONTROLLERS":["nearestDifferentMaster","canRepel","mapTargetToGoal","hangOutNearMaster"],"AI":{"BLIND":true},"BODY":{"PENETRATION":1.2,"PUSHABILITY":0.6,"ACCELERATION":0.05,"HEALTH":0.3,"DAMAGE":3.375,"SPEED":3.8,"RANGE":200,"DENSITY":0.03,"RESIST":1.5,"FOV":0.8},"HITS_OWN_TYPE":"hard","DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"BUFF_VS_FOOD":true,"CAN_BE_ON_LEADERBOARD":false,"index":26,"mockup":{"body":{"type":1,"id":26,"index":26,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Drone","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"LABEL":"Homing Bullet","SHAPE":0,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3,"ACCELERATION":0.05,"RESIST":1.5,"FOV":0.75},"TURRETS":[{"POSITION":[10,0,0,0,360,1],"TYPE":{"PARENT":[null],"COLOR":16,"index":27}}],"CONTROLLERS":["nearestDifferentMaster","mapTargetToGoal"],"INDEPENDENT":true,"DIE_AT_RANGE":true,"index":28} 
+20:15:09.073 WARN  ~~ LOOPS: 10. ENTITY #: 816//323. VIEW #: 3. BACKLOGGED :: 191.700%! ~~ 
+20:15:24.221 WARN  ~~ LOOPS: 1. ENTITY #: 3404//1608. VIEW #: 3. BACKLOGGED :: 4992.000%! ~~ 

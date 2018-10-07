@@ -1,0 +1,110 @@
+00:38:16.762 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+01:18:44.871 WARN  ~~ LOOPS: 18. ENTITY #: 326//43. VIEW #: 4. BACKLOGGED :: 122.833%! ~~ 
+01:18:51.419 WARN  ~~ LOOPS: 10. ENTITY #: 326//41. VIEW #: 4. BACKLOGGED :: 1860.300%! ~~ 
+17:48:32.723 WARN  ~~ LOOPS: 14. ENTITY #: 636//145. VIEW #: 9. BACKLOGGED :: 115.500%! ~~ 
+17:48:33.756 WARN  ~~ LOOPS: 13. ENTITY #: 644//155. VIEW #: 9. BACKLOGGED :: 138.000%! ~~ 
+17:48:34.847 WARN  ~~ LOOPS: 13. ENTITY #: 651//169. VIEW #: 9. BACKLOGGED :: 151.615%! ~~ 
+17:48:35.926 WARN  ~~ LOOPS: 12. ENTITY #: 650//172. VIEW #: 9. BACKLOGGED :: 167.750%! ~~ 
+17:48:36.989 WARN  ~~ LOOPS: 10. ENTITY #: 662//182. VIEW #: 9. BACKLOGGED :: 196.800%! ~~ 
+17:48:38.024 WARN  ~~ LOOPS: 10. ENTITY #: 671//190. VIEW #: 9. BACKLOGGED :: 205.200%! ~~ 
+17:48:39.025 WARN  ~~ LOOPS: 9. ENTITY #: 684//200. VIEW #: 9. BACKLOGGED :: 224.000%! ~~ 
+17:48:40.081 WARN  ~~ LOOPS: 9. ENTITY #: 664//197. VIEW #: 9. BACKLOGGED :: 249.333%! ~~ 
+17:48:41.187 WARN  ~~ LOOPS: 10. ENTITY #: 646//170. VIEW #: 9. BACKLOGGED :: 218.700%! ~~ 
+17:48:42.294 WARN  ~~ LOOPS: 10. ENTITY #: 655//167. VIEW #: 9. BACKLOGGED :: 233.700%! ~~ 
+17:48:43.336 WARN  ~~ LOOPS: 9. ENTITY #: 666//179. VIEW #: 9. BACKLOGGED :: 246.667%! ~~ 
+17:48:44.421 WARN  ~~ LOOPS: 9. ENTITY #: 668//185. VIEW #: 9. BACKLOGGED :: 260.000%! ~~ 
+17:48:45.548 WARN  ~~ LOOPS: 8. ENTITY #: 648//182. VIEW #: 9. BACKLOGGED :: 294.750%! ~~ 
+17:48:46.616 WARN  ~~ LOOPS: 9. ENTITY #: 649//170. VIEW #: 9. BACKLOGGED :: 255.667%! ~~ 
+17:48:47.732 WARN  ~~ LOOPS: 9. ENTITY #: 648//170. VIEW #: 9. BACKLOGGED :: 268.667%! ~~ 
+17:48:48.861 WARN  ~~ LOOPS: 8. ENTITY #: 648//180. VIEW #: 9. BACKLOGGED :: 316.125%! ~~ 
+17:48:50.019 WARN  ~~ LOOPS: 8. ENTITY #: 648//186. VIEW #: 9. BACKLOGGED :: 326.625%! ~~ 
+17:48:51.124 WARN  ~~ LOOPS: 7. ENTITY #: 649//185. VIEW #: 9. BACKLOGGED :: 340.286%! ~~ 
+17:48:52.194 WARN  ~~ LOOPS: 7. ENTITY #: 650//194. VIEW #: 9. BACKLOGGED :: 350.143%! ~~ 
+17:48:53.240 WARN  ~~ LOOPS: 7. ENTITY #: 649//192. VIEW #: 9. BACKLOGGED :: 348.000%! ~~ 
+17:48:54.304 WARN  ~~ LOOPS: 7. ENTITY #: 648//198. VIEW #: 9. BACKLOGGED :: 342.429%! ~~ 
+17:48:55.411 WARN  ~~ LOOPS: 7. ENTITY #: 649//204. VIEW #: 9. BACKLOGGED :: 375.000%! ~~ 
+17:48:56.521 WARN  ~~ LOOPS: 7. ENTITY #: 650//206. VIEW #: 9. BACKLOGGED :: 373.714%! ~~ 
+17:48:57.633 WARN  ~~ LOOPS: 7. ENTITY #: 649//211. VIEW #: 9. BACKLOGGED :: 378.000%! ~~ 
+17:48:58.672 WARN  ~~ LOOPS: 6. ENTITY #: 648//208. VIEW #: 9. BACKLOGGED :: 377.500%! ~~ 
+17:48:59.702 WARN  ~~ LOOPS: 6. ENTITY #: 648//210. VIEW #: 9. BACKLOGGED :: 396.500%! ~~ 
+17:49:00.878 WARN  ~~ LOOPS: 7. ENTITY #: 649//212. VIEW #: 9. BACKLOGGED :: 403.714%! ~~ 
+17:49:01.942 WARN  ~~ LOOPS: 6. ENTITY #: 649//213. VIEW #: 9. BACKLOGGED :: 428.500%! ~~ 
+17:49:03.027 WARN  ~~ LOOPS: 6. ENTITY #: 649//215. VIEW #: 9. BACKLOGGED :: 439.500%! ~~ 
+17:49:04.100 WARN  ~~ LOOPS: 6. ENTITY #: 648//213. VIEW #: 9. BACKLOGGED :: 432.500%! ~~ 
+17:49:05.164 WARN  ~~ LOOPS: 5. ENTITY #: 648//212. VIEW #: 9. BACKLOGGED :: 484.200%! ~~ 
+17:49:06.340 WARN  ~~ LOOPS: 6. ENTITY #: 649//214. VIEW #: 9. BACKLOGGED :: 476.000%! ~~ 
+17:49:07.465 WARN  ~~ LOOPS: 6. ENTITY #: 649//212. VIEW #: 9. BACKLOGGED :: 460.500%! ~~ 
+17:49:08.607 WARN  ~~ LOOPS: 6. ENTITY #: 652//211. VIEW #: 9. BACKLOGGED :: 458.000%! ~~ 
+17:49:09.752 WARN  ~~ LOOPS: 6. ENTITY #: 654//215. VIEW #: 9. BACKLOGGED :: 472.500%! ~~ 
+17:49:10.863 WARN  ~~ LOOPS: 5. ENTITY #: 659//217. VIEW #: 9. BACKLOGGED :: 559.800%! ~~ 
+17:49:11.952 WARN  ~~ LOOPS: 5. ENTITY #: 662//220. VIEW #: 9. BACKLOGGED :: 546.600%! ~~ 
+17:49:13.111 WARN  ~~ LOOPS: 5. ENTITY #: 665//228. VIEW #: 9. BACKLOGGED :: 552.600%! ~~ 
+17:49:14.206 WARN  ~~ LOOPS: 5. ENTITY #: 668//228. VIEW #: 9. BACKLOGGED :: 549.000%! ~~ 
+17:49:15.360 WARN  ~~ LOOPS: 5. ENTITY #: 668//229. VIEW #: 9. BACKLOGGED :: 582.000%! ~~ 
+17:49:16.396 WARN  ~~ LOOPS: 4. ENTITY #: 669//233. VIEW #: 9. BACKLOGGED :: 666.000%! ~~ 
+17:49:17.544 WARN  ~~ LOOPS: 5. ENTITY #: 668//241. VIEW #: 9. BACKLOGGED :: 586.200%! ~~ 
+17:49:18.702 WARN  ~~ LOOPS: 5. ENTITY #: 665//239. VIEW #: 9. BACKLOGGED :: 583.200%! ~~ 
+17:49:19.971 WARN  ~~ LOOPS: 5. ENTITY #: 664//235. VIEW #: 9. BACKLOGGED :: 655.800%! ~~ 
+17:49:21.005 WARN  ~~ LOOPS: 4. ENTITY #: 664//240. VIEW #: 9. BACKLOGGED :: 663.750%! ~~ 
+17:49:22.074 WARN  ~~ LOOPS: 4. ENTITY #: 661//238. VIEW #: 9. BACKLOGGED :: 647.250%! ~~ 
+17:49:23.154 WARN  ~~ LOOPS: 4. ENTITY #: 662//229. VIEW #: 9. BACKLOGGED :: 708.000%! ~~ 
+17:49:24.219 WARN  ~~ LOOPS: 4. ENTITY #: 660//225. VIEW #: 9. BACKLOGGED :: 684.000%! ~~ 
+17:49:25.279 WARN  ~~ LOOPS: 4. ENTITY #: 660//228. VIEW #: 9. BACKLOGGED :: 680.250%! ~~ 
+17:49:26.332 WARN  ~~ LOOPS: 4. ENTITY #: 662//229. VIEW #: 9. BACKLOGGED :: 684.000%! ~~ 
+17:50:46.982 WARN  ~~ LOOPS: 15. ENTITY #: 439//208. VIEW #: 6. BACKLOGGED :: 102.200%! ~~ 
+17:50:48.016 WARN  ~~ LOOPS: 15. ENTITY #: 465//231. VIEW #: 6. BACKLOGGED :: 108.000%! ~~ 
+17:50:49.026 WARN  ~~ LOOPS: 13. ENTITY #: 467//242. VIEW #: 6. BACKLOGGED :: 125.308%! ~~ 
+17:50:50.064 WARN  ~~ LOOPS: 14. ENTITY #: 448//240. VIEW #: 6. BACKLOGGED :: 127.714%! ~~ 
+17:50:51.075 WARN  ~~ LOOPS: 13. ENTITY #: 421//229. VIEW #: 6. BACKLOGGED :: 134.077%! ~~ 
+17:50:52.117 WARN  ~~ LOOPS: 14. ENTITY #: 387//205. VIEW #: 6. BACKLOGGED :: 123.857%! ~~ 
+17:50:53.118 WARN  ~~ LOOPS: 14. ENTITY #: 348//172. VIEW #: 6. BACKLOGGED :: 109.500%! ~~ 
+17:50:55.120 WARN  ~~ LOOPS: 15. ENTITY #: 343//149. VIEW #: 6. BACKLOGGED :: 101.400%! ~~ 
+17:50:56.130 WARN  ~~ LOOPS: 15. ENTITY #: 338//145. VIEW #: 6. BACKLOGGED :: 102.600%! ~~ 
+17:50:57.139 WARN  ~~ LOOPS: 15. ENTITY #: 329//140. VIEW #: 6. BACKLOGGED :: 102.000%! ~~ 
+17:51:01.199 WARN  ~~ LOOPS: 14. ENTITY #: 339//144. VIEW #: 6. BACKLOGGED :: 123.643%! ~~ 
+17:51:02.208 WARN  ~~ LOOPS: 13. ENTITY #: 340//152. VIEW #: 6. BACKLOGGED :: 132.692%! ~~ 
+17:51:03.283 WARN  ~~ LOOPS: 13. ENTITY #: 344//164. VIEW #: 6. BACKLOGGED :: 141.692%! ~~ 
+17:51:04.308 WARN  ~~ LOOPS: 12. ENTITY #: 346//169. VIEW #: 6. BACKLOGGED :: 155.750%! ~~ 
+17:51:05.334 WARN  ~~ LOOPS: 11. ENTITY #: 347//190. VIEW #: 6. BACKLOGGED :: 180.273%! ~~ 
+17:51:06.340 WARN  ~~ LOOPS: 10. ENTITY #: 353//194. VIEW #: 6. BACKLOGGED :: 197.700%! ~~ 
+17:51:07.368 WARN  ~~ LOOPS: 11. ENTITY #: 356//192. VIEW #: 6. BACKLOGGED :: 185.182%! ~~ 
+17:51:08.430 WARN  ~~ LOOPS: 11. ENTITY #: 360//195. VIEW #: 6. BACKLOGGED :: 190.091%! ~~ 
+17:51:09.442 WARN  ~~ LOOPS: 10. ENTITY #: 365//189. VIEW #: 6. BACKLOGGED :: 203.700%! ~~ 
+17:51:10.448 WARN  ~~ LOOPS: 10. ENTITY #: 370//195. VIEW #: 6. BACKLOGGED :: 195.900%! ~~ 
+17:51:11.452 WARN  ~~ LOOPS: 9. ENTITY #: 373//197. VIEW #: 6. BACKLOGGED :: 236.667%! ~~ 
+17:51:12.467 WARN  ~~ LOOPS: 9. ENTITY #: 372//192. VIEW #: 6. BACKLOGGED :: 241.000%! ~~ 
+17:51:13.473 WARN  ~~ LOOPS: 9. ENTITY #: 372//197. VIEW #: 6. BACKLOGGED :: 231.000%! ~~ 
+17:51:14.490 WARN  ~~ LOOPS: 9. ENTITY #: 375//189. VIEW #: 6. BACKLOGGED :: 235.667%! ~~ 
+17:51:15.531 WARN  ~~ LOOPS: 9. ENTITY #: 376//196. VIEW #: 6. BACKLOGGED :: 246.000%! ~~ 
+17:51:16.599 WARN  ~~ LOOPS: 9. ENTITY #: 386//194. VIEW #: 6. BACKLOGGED :: 257.333%! ~~ 
+17:51:17.671 WARN  ~~ LOOPS: 9. ENTITY #: 396//209. VIEW #: 6. BACKLOGGED :: 256.333%! ~~ 
+17:51:18.749 WARN  ~~ LOOPS: 8. ENTITY #: 404//216. VIEW #: 6. BACKLOGGED :: 304.125%! ~~ 
+17:51:19.876 WARN  ~~ LOOPS: 8. ENTITY #: 406//224. VIEW #: 6. BACKLOGGED :: 322.125%! ~~ 
+17:51:20.993 WARN  ~~ LOOPS: 8. ENTITY #: 410//220. VIEW #: 6. BACKLOGGED :: 318.375%! ~~ 
+17:51:22.012 WARN  ~~ LOOPS: 7. ENTITY #: 414//234. VIEW #: 6. BACKLOGGED :: 336.000%! ~~ 
+17:51:23.087 WARN  ~~ LOOPS: 7. ENTITY #: 418//234. VIEW #: 6. BACKLOGGED :: 359.143%! ~~ 
+17:51:24.087 WARN  ~~ LOOPS: 7. ENTITY #: 414//236. VIEW #: 6. BACKLOGGED :: 322.714%! ~~ 
+17:51:25.087 WARN  ~~ LOOPS: 7. ENTITY #: 408//235. VIEW #: 6. BACKLOGGED :: 335.571%! ~~ 
+17:51:37.544 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+17:52:50.802 WARN  Malformed command packet! Kicking. Player now has 2 warnings. 
+17:52:50.833 WARN  Malformed command packet! Kicking. Player now has 3 warnings. 
+18:09:03.313 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+18:43:11.837 WARN  ~~ LOOPS: 13. ENTITY #: 726//429. VIEW #: 10. BACKLOGGED :: 104.308%! ~~ 
+18:43:12.891 WARN  ~~ LOOPS: 15. ENTITY #: 725//426. VIEW #: 10. BACKLOGGED :: 104.800%! ~~ 
+21:22:20.081 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1755:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2488:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2512:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+21:22:20.081 ERROR testbed_boss_3 
+21:22:20.083 ERROR {"PARENT":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"COLOR_OVERRIDE":-1,"DONT_HIT_OBSTACLES":false,"IGNORE_SHAPES":false,"LAYER":-1,"index":33,"mockup":{"body":{"type":7,"id":33,"index":33,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Testbed Parent","DANGER":8,"BODY":{"SHIELD":15,"REGEN":5,"HEALTH":15,"DAMAGE":5,"DENSITY":15,"FOV":1.25,"SPEED":6.0375},"GUNS":[{"POSITION":[18,10,-1.4,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":13.5,"recoil":0.35,"shudder":0.1,"size":1,"health":2,"damage":1.5,"pen":2,"speed":5.625,"maxSpeed":2,"range":1.25,"density":4,"spray":15,"resist":1},"TYPE":[{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":17,"mockup":{"body":{"type":1,"id":17,"index":17,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}},{"SHAPE":5}]}}],"index":197,"mockup":{"body":{"type":7,"id":276,"index":197,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Testbed Parent","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"position":{"middle":{"x":0.444643,"y":0},"axis":2.88929,"points":[{"x":1.8,"y":0.5},{"x":-1,"y":0},{"x":1.8,"y":-0.5}]}},"position":{"middle":{"x":0.444643,"y":0},"axis":2.88929,"points":[{"x":1.8,"y":0.5},{"x":-1,"y":0},{"x":1.8,"y":-0.5}]}}}],"LABEL":"Page 3","UPGRADES_TIER_3":[null,null],"index":201} 
+21:46:10.635 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+21:46:10.680 WARN  Malformed command packet! Kicking. Player now has 2 warnings. 
+23:17:03.230 WARN  Malformed command packet! Kicking player and giving 1 warning. 

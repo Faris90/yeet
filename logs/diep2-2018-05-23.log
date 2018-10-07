@@ -1,0 +1,129 @@
+21:07:12.223 ERROR [ERROR] A ghost entity has been found! 
+21:07:12.223 ERROR Type: Basic 
+21:07:12.223 ERROR Position: (47.16666666666666, 4815.5) 
+21:07:12.223 ERROR Collision Array:  
+21:07:12.223 ERROR Health: 0.44833333333333325 
+21:07:12.223 WARN  Ghost entity removed successfully. 
+22:13:25.857 ERROR [ERROR] A ghost has been found! 
+22:13:25.858 ERROR Type: Rifle 
+22:13:25.858 ERROR Position: (4715.008852240535, 5310.549932981222) 
+22:13:25.861 ERROR Collision Array:  
+22:13:25.861 ERROR Health: 0.7783333333333335 
+22:13:25.862 WARN  Ghost removed successfully. 
+22:16:53.978 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+22:18:45.540 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+22:24:18.736 ERROR [ERROR] A ghost entity has been found! 
+22:24:18.736 ERROR Type: Tri-Angle 
+22:24:18.736 ERROR Position: (178.85021513645157, 4253.776043395535) 
+22:24:18.736 ERROR Collision Array:  
+22:24:18.736 ERROR Health: 0.7416666666666667 
+22:24:18.736 WARN  Ghost entity removed successfully. 
+22:30:13.597 WARN  ~~ LOOPS: 15. ENTITY #: 435//80. VIEW #: 6. BACKLOGGED :: 103.200%! ~~ 
+22:30:14.647 WARN  ~~ LOOPS: 15. ENTITY #: 435//80. VIEW #: 6. BACKLOGGED :: 109.800%! ~~ 
+22:30:15.666 WARN  ~~ LOOPS: 13. ENTITY #: 435//78. VIEW #: 6. BACKLOGGED :: 117.000%! ~~ 
+22:30:16.677 WARN  ~~ LOOPS: 15. ENTITY #: 434//77. VIEW #: 6. BACKLOGGED :: 106.400%! ~~ 
+22:30:17.692 WARN  ~~ LOOPS: 14. ENTITY #: 439//79. VIEW #: 6. BACKLOGGED :: 114.000%! ~~ 
+22:30:18.703 WARN  ~~ LOOPS: 14. ENTITY #: 441//82. VIEW #: 6. BACKLOGGED :: 120.857%! ~~ 
+22:30:19.756 WARN  ~~ LOOPS: 14. ENTITY #: 445//82. VIEW #: 6. BACKLOGGED :: 126.214%! ~~ 
+22:30:20.801 WARN  ~~ LOOPS: 14. ENTITY #: 443//81. VIEW #: 6. BACKLOGGED :: 124.714%! ~~ 
+22:30:21.813 WARN  ~~ LOOPS: 12. ENTITY #: 442//83. VIEW #: 6. BACKLOGGED :: 147.250%! ~~ 
+22:30:22.846 WARN  ~~ LOOPS: 13. ENTITY #: 444//83. VIEW #: 6. BACKLOGGED :: 132.231%! ~~ 
+22:30:23.901 WARN  ~~ LOOPS: 14. ENTITY #: 446//81. VIEW #: 6. BACKLOGGED :: 126.000%! ~~ 
+22:30:24.918 WARN  ~~ LOOPS: 13. ENTITY #: 444//81. VIEW #: 5. BACKLOGGED :: 133.846%! ~~ 
+22:30:25.946 WARN  ~~ LOOPS: 13. ENTITY #: 443//76. VIEW #: 5. BACKLOGGED :: 136.846%! ~~ 
+22:30:26.982 WARN  ~~ LOOPS: 13. ENTITY #: 444//76. VIEW #: 6. BACKLOGGED :: 139.846%! ~~ 
+22:30:28.014 WARN  ~~ LOOPS: 12. ENTITY #: 446//84. VIEW #: 6. BACKLOGGED :: 158.250%! ~~ 
+22:30:29.077 WARN  ~~ LOOPS: 12. ENTITY #: 446//83. VIEW #: 6. BACKLOGGED :: 164.750%! ~~ 
+22:30:30.128 WARN  ~~ LOOPS: 12. ENTITY #: 449//84. VIEW #: 6. BACKLOGGED :: 163.500%! ~~ 
+22:30:31.144 WARN  ~~ LOOPS: 10. ENTITY #: 448//85. VIEW #: 6. BACKLOGGED :: 183.300%! ~~ 
+22:30:32.215 WARN  ~~ LOOPS: 11. ENTITY #: 450//86. VIEW #: 6. BACKLOGGED :: 196.636%! ~~ 
+22:30:33.261 WARN  ~~ LOOPS: 10. ENTITY #: 450//91. VIEW #: 6. BACKLOGGED :: 213.600%! ~~ 
+22:30:34.291 WARN  ~~ LOOPS: 10. ENTITY #: 451//91. VIEW #: 6. BACKLOGGED :: 209.700%! ~~ 
+22:30:35.308 WARN  ~~ LOOPS: 9. ENTITY #: 451//90. VIEW #: 6. BACKLOGGED :: 238.667%! ~~ 
+22:30:36.347 WARN  ~~ LOOPS: 9. ENTITY #: 453//90. VIEW #: 6. BACKLOGGED :: 245.667%! ~~ 
+22:30:37.372 WARN  ~~ LOOPS: 9. ENTITY #: 454//89. VIEW #: 6. BACKLOGGED :: 241.667%! ~~ 
+22:30:38.442 WARN  ~~ LOOPS: 9. ENTITY #: 456//90. VIEW #: 7. BACKLOGGED :: 259.000%! ~~ 
+22:30:39.454 WARN  ~~ LOOPS: 9. ENTITY #: 459//90. VIEW #: 7. BACKLOGGED :: 236.667%! ~~ 
+22:30:40.469 WARN  ~~ LOOPS: 8. ENTITY #: 462//94. VIEW #: 7. BACKLOGGED :: 248.250%! ~~ 
+22:30:41.498 WARN  ~~ LOOPS: 9. ENTITY #: 463//93. VIEW #: 7. BACKLOGGED :: 247.667%! ~~ 
+22:30:42.512 WARN  ~~ LOOPS: 9. ENTITY #: 465//94. VIEW #: 7. BACKLOGGED :: 234.667%! ~~ 
+22:30:43.621 WARN  ~~ LOOPS: 9. ENTITY #: 466//96. VIEW #: 7. BACKLOGGED :: 275.333%! ~~ 
+22:30:44.691 WARN  ~~ LOOPS: 8. ENTITY #: 468//97. VIEW #: 7. BACKLOGGED :: 298.125%! ~~ 
+22:30:45.759 WARN  ~~ LOOPS: 8. ENTITY #: 464//94. VIEW #: 7. BACKLOGGED :: 301.500%! ~~ 
+22:30:46.890 WARN  ~~ LOOPS: 9. ENTITY #: 465//94. VIEW #: 7. BACKLOGGED :: 279.333%! ~~ 
+22:30:47.949 WARN  ~~ LOOPS: 8. ENTITY #: 466//93. VIEW #: 7. BACKLOGGED :: 297.000%! ~~ 
+22:30:48.954 WARN  ~~ LOOPS: 7. ENTITY #: 469//96. VIEW #: 7. BACKLOGGED :: 325.714%! ~~ 
+22:34:20.659 ERROR [ERROR] A ghost has been found! 
+22:34:20.660 ERROR Type: Rocketeer 
+22:34:20.660 ERROR Position: (834.1456226266922, 958.5471681248129) 
+22:34:20.660 ERROR Collision Array:  
+22:34:20.660 ERROR Health: 0.7783333333333335 
+22:34:20.660 WARN  Ghost removed successfully. 
+22:36:20.181 ERROR [ERROR] A ghost entity has been found! 
+22:36:20.181 ERROR Type: Basic 
+22:36:20.182 ERROR Position: (878.5, 276.16666666666663) 
+22:36:20.182 ERROR Collision Array:  
+22:36:20.182 ERROR Health: 0.44833333333333325 
+22:36:20.182 WARN  Ghost entity removed successfully. 
+22:36:54.896 ERROR [ERROR] A ghost has been found! 
+22:36:54.896 ERROR Type: Basic 
+22:36:54.896 ERROR Position: (752.5, 25.166666666666657) 
+22:36:54.896 ERROR Collision Array:  
+22:36:54.896 ERROR Health: -1 
+22:36:54.896 WARN  Ghost removed successfully. 
+22:36:55.383 ERROR [ERROR] A ghost entity has been found! 
+22:36:55.383 ERROR Type: Basic 
+22:36:55.383 ERROR Position: (14.166666666666657, 478.5) 
+22:36:55.383 ERROR Collision Array:  
+22:36:55.383 ERROR Health: 0.44833333333333325 
+22:36:55.383 WARN  Ghost entity removed successfully. 
+22:37:15.494 ERROR [ERROR] A ghost entity has been found! 
+22:37:15.494 ERROR Type: Basic 
+22:37:15.494 ERROR Position: (559.5, 241.16666666666666) 
+22:37:15.494 ERROR Collision Array:  
+22:37:15.494 ERROR Health: 0.44833333333333325 
+22:37:15.494 WARN  Ghost entity removed successfully. 
+22:37:15.936 ERROR [ERROR] A ghost has been found! 
+22:37:15.936 ERROR Type: Basic 
+22:37:15.936 ERROR Position: (715.5, 241.16666666666666) 
+22:37:15.936 ERROR Collision Array:  
+22:37:15.936 ERROR Health: 0.44833333333333325 
+22:37:15.936 WARN  Ghost removed successfully. 
+22:37:16.106 ERROR [ERROR] A ghost entity has been found! 
+22:37:16.106 ERROR Type: Basic 
+22:37:16.106 ERROR Position: (841.5, 245.16666666666666) 
+22:37:16.106 ERROR Collision Array:  
+22:37:16.106 ERROR Health: 0.44833333333333325 
+22:37:16.106 WARN  Ghost entity removed successfully. 
+22:37:45.622 ERROR [ERROR] A ghost entity has been found! 
+22:37:45.622 ERROR Type: Basic 
+22:37:45.622 ERROR Position: (116.16666666666666, 631.5) 
+22:37:45.622 ERROR Collision Array:  
+22:37:45.622 ERROR Health: 0.44833333333333325 
+22:37:45.622 WARN  Ghost entity removed successfully. 
+23:10:42.187 ERROR [ERROR] A ghost entity has been found! 
+23:10:42.187 ERROR Type: Basic 
+23:10:42.187 ERROR Position: (244.16666666666666, 5196.833333333333) 
+23:10:42.188 ERROR Collision Array:  
+23:10:42.188 ERROR Health: 0.44833333333333325 
+23:10:42.188 WARN  Ghost entity removed successfully. 
+23:14:27.455 ERROR [ERROR] A ghost entity has been found! 
+23:14:27.455 ERROR Type: Factory 
+23:14:27.455 ERROR Position: (399.7515371846525, 163.94553596353464) 
+23:14:27.455 ERROR Collision Array:  
+23:14:27.455 ERROR Health: 0.7783333333333335 
+23:14:27.455 WARN  Ghost entity removed successfully. 
+23:42:42.745 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+23:46:06.287 ERROR [ERROR] A ghost has been found! 
+23:46:06.287 ERROR Type: Auto Underseer 
+23:46:06.287 ERROR Position: (5417.833333333333, 374.16666666666663) 
+23:46:06.287 ERROR Collision Array:  
+23:46:06.287 ERROR Health: 0.7783333333333335 
+23:46:06.288 WARN  Ghost removed successfully. 
+00:00:11.670 ERROR [ERROR] A ghost has been found! 
+00:00:11.670 ERROR Type: Elite Twin 
+00:00:11.670 ERROR Position: (2043.1787209684405, 3794.557851023154) 
+00:00:11.670 ERROR Collision Array:  
+00:00:11.670 ERROR Health: 5.288333333333333 
+00:00:11.670 WARN  Ghost removed successfully. 
+

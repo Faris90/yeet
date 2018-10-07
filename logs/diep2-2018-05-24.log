@@ -1,0 +1,26 @@
+00:16:32.377 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+00:16:32.501 WARN  Malformed command packet! Kicking. Player now has 2 warnings. 
+00:29:41.727 ERROR [ERROR] A ghost entity has been found! 
+00:29:41.727 ERROR Type: Basic 
+00:29:41.727 ERROR Position: (31.166666666666657, 5422.833333333333) 
+00:29:41.727 ERROR Collision Array:  
+00:29:41.727 ERROR Health: 0.7783333333333335 
+00:29:41.727 WARN  Ghost entity removed successfully. 
+00:35:25.709 WARN  Malformed command packet! Kicking. Player now has 3 warnings. 
+00:35:25.821 WARN  Malformed command packet! Kicking. Player now has 4 warnings. 
+00:35:26.152 WARN  Malformed command packet! Kicking. Player now has 5 warnings. 
+00:35:26.213 WARN  Malformed command packet! Kicking. Player now has 6 warnings. 
+00:35:26.213 WARN  127.0.0.1 has been banned! 
+13:25:17.878 WARN  Ill-sized key request! Kicking player and giving 1 warning. 
+13:25:17.964 WARN  Malformed command packet! Kicking. Player now has 2 warnings. 
+13:25:18.067 WARN  Malformed command packet! Kicking. Player now has 3 warnings. 
+13:25:18.128 WARN  Malformed command packet! Kicking. Player now has 4 warnings. 
+13:25:18.258 WARN  Malformed command packet! Kicking. Player now has 5 warnings. 
+14:52:13.519 ERROR [ERROR] A ghost entity has been found! 
+14:52:13.519 ERROR Type: Basic 
+14:52:13.519 ERROR Position: (172.16666666666666, 260.16666666666663) 
+14:52:13.519 ERROR Collision Array:  
+14:52:13.519 ERROR Health: -1 
+14:52:13.519 WARN  Ghost entity removed successfully. 
+21:23:25.972 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+21:23:25.972 WARN  Malformed command packet! Kicking. Player now has 2 warnings. 

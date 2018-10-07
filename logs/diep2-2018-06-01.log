@@ -1,0 +1,10 @@
+18:13:48.079 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+18:13:48.158 WARN  Malformed command packet! Kicking. Player now has 2 warnings. 
+23:43:36.280 WARN  ~~ LOOPS: 7. ENTITY #: 1856//1237. VIEW #: 4. BACKLOGGED :: 355.714%! ~~ 
+23:43:37.535 WARN  ~~ LOOPS: 5. ENTITY #: 2239//1727. VIEW #: 4. BACKLOGGED :: 528.000%! ~~ 
+23:43:38.850 WARN  ~~ LOOPS: 4. ENTITY #: 2190//1848. VIEW #: 4. BACKLOGGED :: 738.000%! ~~ 
+23:43:40.027 WARN  ~~ LOOPS: 5. ENTITY #: 1608//1479. VIEW #: 4. BACKLOGGED :: 553.800%! ~~ 
+23:43:41.052 WARN  ~~ LOOPS: 8. ENTITY #: 656//633. VIEW #: 4. BACKLOGGED :: 286.875%! ~~ 
+23:43:52.173 WARN  ~~ LOOPS: 13. ENTITY #: 530//568. VIEW #: 5. BACKLOGGED :: 135.462%! ~~ 
+23:43:57.278 WARN  ~~ LOOPS: 12. ENTITY #: 1061//697. VIEW #: 5. BACKLOGGED :: 138.500%! ~~ 
+
